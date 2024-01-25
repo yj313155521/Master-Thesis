@@ -1,0 +1,13 @@
+RefDNN: a reference drug based neural network for more accurate prediction of anticancer drug resistance
+
+1.RefDNN consists of one DNN and numerous ElasticNet logistic regressors
+2.Gene expression data and drug fingerprint data should be transformed into representations. 
+	The first process is through ElasticNet, and get the drug resistance labels of an input cell line to M reference drugs.
+	The second is the drug structure similarity profile computed by Tanimoto coefficient.
+3.Combine the info. from the two vectors by element-wise vector multiplication, called Hadamard product.
+4.The final MLP consist of three layers.
+5.The Loss of RefDNN is the sumation of two Loss function. One is ElasticNet and another is MLP.
+	
+
+
+
