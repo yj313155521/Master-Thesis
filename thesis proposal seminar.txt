@@ -1,5 +1,20 @@
-Has anyone studied your kind of problem previously? Which methods were used? No
+Research Question:
+make drug sensitivity prediction for a cancer sample. sensitive or resistant
+
+Has anyone studied your kind of problem previously? Which methods were used? 
+RefDNN
+GNN with PPI network  Protein-Protein Network
+
 Are there studies of similar problems?
 What lessons can be learnt?
+
 What is new in your study?
+Considering the signals between the subcell types in the bulk data instead of regrading them as an integraty.
+Do not need to train each model for each drug.
+
 Why did you choose a certain model/method/algorithm? Which are alternatives?
+Deconvolution method
+GCN Propagation‑based spatial graph convolutional networks(GraphSAGE)
+
+alternatives
+Spatial graph convolutional networks: This is not suitable for multiple graphs.

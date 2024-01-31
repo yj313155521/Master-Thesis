@@ -1,7 +1,7 @@
 %PDF-1.4
 %¡³Å×
 1 0 obj
-<</Producer(iText® 5.3.5 ©2000-2012 1T3XT BVBA \(SPRINGER SBM; licensed version\))/Creator(Springer)/Title(RefDNN: a reference drug based neural network for more accurate prediction of anticancer drug resistance)/Keywords()/ModDate(D:20240125204909+01'00')/Subject(Scientific Reports, doi:10.1038/s41598-020-58821-x)/doi(10.1038/s41598-020-58821-x)/Author(Jonghwan Choi)/CreationDate(D:20200129122640+05'30')>>
+<</Producer(iText® 5.3.5 ©2000-2012 1T3XT BVBA \(SPRINGER SBM; licensed version\))/Creator(Springer)/Title(RefDNN: a reference drug based neural network for more accurate prediction of anticancer drug resistance)/Keywords()/ModDate(D:20240131175907+01'00')/Subject(Scientific Reports, doi:10.1038/s41598-020-58821-x)/doi(10.1038/s41598-020-58821-x)/Author(Jonghwan Choi)/CreationDate(D:20200129122640+05'30')>>
 endobj
 2 0 obj
 <</Type/Metadata/Subtype/XML/Length 21540>>stream
@@ -47,9 +47,9 @@ endobj
       </rdf:Description>
       <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/">
          <xmp:CreatorTool>Springer</xmp:CreatorTool>
-         <xmp:ModifyDate>2024-01-25T20:49:09+01:00</xmp:ModifyDate>
+         <xmp:ModifyDate>2024-01-31T17:59:07+01:00</xmp:ModifyDate>
          <xmp:CreateDate>2020-01-29T12:26:40+05:30</xmp:CreateDate>
-         <xmp:MetadataDate>2024-01-25T20:49:09+01:00</xmp:MetadataDate>
+         <xmp:MetadataDate>2024-01-31T17:59:07+01:00</xmp:MetadataDate>
       </rdf:Description>
       <rdf:Description rdf:about="" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/">
          <xmpRights:Marked>True</xmpRights:Marked>
@@ -15803,7 +15803,7 @@ endobj
 <</Type/Annot/Subtype/Highlight/P 200 0 R /F 4/M(D:20240123162919+01'00')/HighDpi false/QuadPoints[ 390.987 437.181 532.125 437.181 390.987 425.877 532.125 425.877 155.971 427.182 211.239 427.182 155.971 415.878 211.239 415.878]/Rect[ 155.971 415.878 532.125 437.181]/T(Jin Yan)/Subj(Highlight)/CreationDate(D:20240123162746+01'00')/C[ 1 0.752941 0]/CA 1/NM({802bc03a-dfd2-4575-9a1b-afbb0b1734df})/Popup 523 0 R /AP<</N 524 0 R >>/Contents(That means the gene expression data is not used directly and it need to be processed.)>>
 endobj
 523 0 obj
-<</Type/Annot/Subtype/Popup/P 200 0 R /F 4/M(D:20240125200623+01'00')/Rect[ 387.053 443.101 573.253 546.401]/Open true/CreationDate(D:20240123162746+01'00')/Parent 522 0 R >>
+<</Type/Annot/Subtype/Popup/P 200 0 R /F 4/M(D:20240131173352+01'00')/Rect[ 594.914 437.884 781.114 541.184]/Open true/CreationDate(D:20240123162746+01'00')/Parent 522 0 R >>
 endobj
 524 0 obj
 <</Type/XObject/Subtype/Form/BBox[ 155.971 415.878 532.125 437.181]/Matrix[ 1 0 0 1 -155.971 -415.878]/Resources<</ExtGState<</X 525 0 R >>/ProcSet[/PDF]>>/Group<</S/Transparency/Type/Group>>/Length 96/Filter/FlateDecode>>stream
@@ -15818,7 +15818,7 @@ endobj
 <</Type/Annot/Subtype/Highlight/P 200 0 R /F 4/M(D:20240123163755+01'00')/HighDpi false/QuadPoints[ 450.718 427.182 540.115 427.182 450.718 415.878 540.115 415.878]/Rect[ 450.718 415.878 540.115 427.182]/T(Jin Yan)/Subj(Highlight)/CreationDate(D:20240123163720+01'00')/C[ 1 0.752941 0]/CA 1/NM({ae95ae89-ea7b-4e2f-9b0a-fe4baef06321})/Popup 527 0 R /AP<</N 528 0 R >>/Contents(This is important intermediate ones.)>>
 endobj
 527 0 obj
-<</Type/Annot/Subtype/Popup/P 200 0 R /F 4/M(D:20240125200625+01'00')/Rect[ 552.598 388.657 738.798 491.957]/Open true/CreationDate(D:20240123163720+01'00')/Parent 526 0 R >>
+<</Type/Annot/Subtype/Popup/P 200 0 R /F 4/M(D:20240131173354+01'00')/Rect[ 584.409 372.354 770.609 475.654]/Open true/CreationDate(D:20240123163720+01'00')/Parent 526 0 R >>
 endobj
 528 0 obj
 <</Type/XObject/Subtype/Form/BBox[ 450.718 415.878 540.115 427.182]/Matrix[ 1 0 0 1 -450.718 -415.878]/Resources<</ExtGState<</X 529 0 R >>/ProcSet[/PDF]>>/Group<</S/Transparency/Type/Group>>/Length 71/Filter/FlateDecode>>stream
@@ -17085,7 +17085,7 @@ xref
 0000000000 00000 n
 0003780102 00000 n
 trailer
-<</Root 357 0 R /Info 1 0 R /Size 704/ID[<4B37F50A939E5F997AE24DCE1FF4253A><0172440A9D2152F04B3E6C7FD821168C>]>>
+<</Root 357 0 R /Info 1 0 R /Size 704/ID[<4B37F50A939E5F997AE24DCE1FF4253A><8953C6157A038E8A4B3E6C7FD821168C>]>>
 startxref
 3780160
 %%EOF
