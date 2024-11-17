@@ -11,7 +11,7 @@
           <mxGeometry x="355" y="275" width="145" height="90" as="geometry" />
         </mxCell>
         <mxCell id="52" value="Symmetric Conditions:&#xa;Symmetric,&#xa;Positive and Negative Asymmetric,&#xa;or Positive Asymmetric" style="text;spacingTop=-5;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="205.5" y="264.25" width="120" height="39" as="geometry" />
+          <mxGeometry x="194.5" y="264.25" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="53" value="Three, Four or Five &#xa;Factors" style="text;spacingTop=-5;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="272.13" y="144" width="30" height="20" as="geometry" />
@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wHd7kruqhAD8kls0SVE1-99" value="Category Numbers:&#xa;5, 6, 7, 8, 9, or 10" style="text;spacingTop=-5;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="205" y="336.75" width="120" height="39" as="geometry" />
+          <mxGeometry x="194" y="336.75" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="wHd7kruqhAD8kls0SVE1-100" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Process 3&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Obtain Polychoric&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Correlation Matrix&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#fff2cc;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="186" y="444" width="132" height="90" as="geometry" />
